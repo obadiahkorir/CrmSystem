@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<definitions xmlns:tns="urn:microsoft-dynamics-schemas/codeunit/PortalCodeunit" targetNamespace="urn:microsoft-dynamics-schemas/codeunit/PortalCodeunit" xmlns="http://schemas.xmlsoap.org/wsdl/">
+  <types>
+    <schema elementFormDefault="qualified" targetNamespace="urn:microsoft-dynamics-schemas/codeunit/PortalCodeunit" xmlns="http://www.w3.org/2001/XMLSchema" />
+  </types>
+  <portType name="PortalCodeunit_Port" />
+  <binding name="PortalCodeunit_Binding" type="tns:PortalCodeunit_Port">
+    <binding transport="http://schemas.xmlsoap.org/soap/http" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+  </binding>
+  <service name="PortalCodeunit">
+    <port name="PortalCodeunit_Port" binding="tns:PortalCodeunit_Binding">
+      <address location="http://dynasoft:7047/BC140/WS/KEMRI/Codeunit/PortalCodeunit" xmlns="http://schemas.xmlsoap.org/wsdl/soap/" />
+    </port>
+  </service>
+</definitions>

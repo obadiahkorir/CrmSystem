@@ -1,0 +1,154 @@
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ApplicationInsights.config
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\csc.exe
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\System.Collections.Immutable.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\System.Reflection.Metadata.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\vbc.exe
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\VBCSCompiler.exe
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\roslyn\VBCSCompiler.exe.config
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\CRM Management.dll.config
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\CRM Management.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\CRM Management.pdb
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.AI.Agent.Intercept.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.AI.DependencyCollector.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.AI.Web.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.AI.WindowsServer.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.ApplicationInsights.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.Data.Edm.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.Data.OData.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.Data.Services.Client.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\System.Spatial.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.AI.DependencyCollector.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.AI.Web.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.AI.WindowsServer.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.ApplicationInsights.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.Data.Edm.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.Data.OData.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\Microsoft.Data.Services.Client.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\System.Spatial.xml
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\de\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\es\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\it\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\de\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\es\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\fr\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\it\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ja\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ko\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ru\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\de\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\es\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\fr\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\it\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ja\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ko\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\ru\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\zh-Hans\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\bin\zh-Hant\System.Spatial.resources.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\obj\Debug\CRM Management.dll
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\obj\Debug\CRM Management.pdb
+D:\DYNASOFT BUSINESS SOLUTIONS\DYNASOFT PORTAL PROJECTS\DYNASOFT  CLIENTS PORTALS\CRM Management\CRM Management\obj\Debug\CRM Management.csprojResolveAssemblyReference.cache
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ApplicationInsights.config
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\csc.exe
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\System.Collections.Immutable.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\System.Reflection.Metadata.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\vbc.exe
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\VBCSCompiler.exe
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\roslyn\VBCSCompiler.exe.config
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\CRM Management.dll.config
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\CRM Management.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\CRM Management.pdb
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.AI.Agent.Intercept.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.AI.DependencyCollector.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.AI.Web.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.AI.WindowsServer.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.ApplicationInsights.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.Data.Edm.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.Data.OData.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.Data.Services.Client.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\System.Spatial.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.AI.DependencyCollector.xml
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.AI.Web.xml
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.AI.WindowsServer.xml
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.ApplicationInsights.xml
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.Data.Edm.xml
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.Data.OData.xml
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\Microsoft.Data.Services.Client.xml
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\System.Spatial.xml
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\de\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\es\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\fr\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\it\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ja\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ko\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ru\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\zh-Hans\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\zh-Hant\Microsoft.Data.Edm.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\de\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\es\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\fr\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\it\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ja\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ko\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ru\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\zh-Hans\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\zh-Hant\Microsoft.Data.OData.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\de\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\es\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\fr\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\it\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ja\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ko\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ru\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\de\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\es\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\fr\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\it\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ja\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ko\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\ru\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\zh-Hans\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\bin\zh-Hant\System.Spatial.resources.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\obj\Debug\CRM Management.csprojResolveAssemblyReference.cache
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\obj\Debug\CRM Management.dll
+D:\Dynasoft Business Solutions\Portals\CRM Management\CRM Management\obj\Debug\CRM Management.pdb
